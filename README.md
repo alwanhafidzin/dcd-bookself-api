@@ -2,7 +2,8 @@
 <h3>Submission dicoding membuat aplikasi web untuk pemula</h3>
 
 **Hasil Review:**
-<img src="img/hasil.png"/>
+<img src="https://github.com/alwanhafidzin/dcd-bookself-api/blob/main/img/hasil.PNG"/>
+
 Kriteria Bookshelf API
 Terdapat 5 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
 
