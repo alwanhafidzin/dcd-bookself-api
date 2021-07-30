@@ -1,10 +1,11 @@
 # dcd-bookself-api
 <h3>Submission dicoding membuat aplikasi Backend untuk pemula</h3>
 
+**Submission ini menggunakan:Node JS,Hapi Framework,EsLint,Nodemon**
+
 **Hasil Review:**
 <img src="https://github.com/alwanhafidzin/dcd-bookself-api/blob/main/img/hasil.PNG"/>
 
-**Submission ini menggunakan:Node JS,Hapi Framework,EsLint,Nodemon**
 
 Kriteria Bookshelf API
 Terdapat 5 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
