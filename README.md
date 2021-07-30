@@ -4,6 +4,8 @@
 **Hasil Review:**
 <img src="https://github.com/alwanhafidzin/dcd-bookself-api/blob/main/img/hasil.PNG"/>
 
+**Submission ini menggunakan:Node JS,Hapi Framework,EsLint,Nodemon**
+
 Kriteria Bookshelf API
 Terdapat 5 kriteria utama yang harus Anda penuhi dalam membuat proyek Bookshelf API.
 
