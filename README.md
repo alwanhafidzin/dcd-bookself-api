@@ -1,5 +1,5 @@
 # dcd-bookself-api
-<h3>Submission dicoding membuat aplikasi web untuk pemula</h3>
+<h3>Submission dicoding membuat aplikasi Backend untuk pemula</h3>
 
 **Hasil Review:**
 <img src="https://github.com/alwanhafidzin/dcd-bookself-api/blob/main/img/hasil.PNG"/>
